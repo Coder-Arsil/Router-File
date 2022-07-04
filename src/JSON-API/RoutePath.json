@@ -1,0 +1,27 @@
+[
+    {
+        "id":1,
+        "url":"/",
+        "component":"Home"
+    },
+    {
+        "id":2,
+        "url":"/services",
+        "component":"Services"
+    },
+    {
+        "id":3,
+        "url":"/products",
+        "component":"Products"
+    },
+    {
+        "id":4,
+        "url":"/about",
+        "component":"About"
+    },
+    {
+        "id":5,
+        "url":"/contact",
+        "component":"Contact"
+    }
+]

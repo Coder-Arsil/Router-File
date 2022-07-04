@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300&display=swap');
+
+nav{
+    display: flex;
+    justify-content: end;
+    background: black;
+}
+nav .menu{
+    text-decoration: none;
+    margin: 15px 10px;
+    /* color: rgb(180, 196, 196) !important; */
+    font-family: 'Nunito', sans-serif;
+}
